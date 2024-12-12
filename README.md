@@ -15,6 +15,6 @@ I'm excited about continuing my journey in the field of data and leverage my pas
 I look forward to chatting with you -feel free to get in touch.  
 Or read on to see some of my recent works ..  
   
-&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filippo-0c66c3?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-carraro/?locale=en_US) [![GitHub](https://img.shields.io/badge/GitHub-Filippo-181717?style=flat&logo=github&logoColor=white)](https://github.com/werderame)
+&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filippo-0c66c3?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-carraro/?locale=en_US) [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github&logoColor=white)](https://werderame.github.io/)
 
 
